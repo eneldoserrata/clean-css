@@ -30,18 +30,6 @@
     "prepublish": "npm run check",
     "test": "vows"
   },
-  "dependencies": {
-    "source-map": "0.5.x"
-  },
-  "devDependencies": {
-    "browserify": "^14.0.0",
-    "http-proxy": "1.x",
-    "jshint": "2.x",
-    "nock": "9.x",
-    "server-destroy": "1.x",
-    "uglify-js": ">=2.6.1",
-    "vows": "0.8.x"
-  },
   "engines": {
     "node": ">= 4.0"
   }
